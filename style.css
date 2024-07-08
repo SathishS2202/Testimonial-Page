@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(236, 80, 23);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.para{
+    border: 2px solid black;
+    padding: 20px;
+    color: white;
+}
+.para2{
+    border: 2px solid black;
+    padding: 20px;
+    color: white;
+}
+.para3
+{
+    border: 2px solid black;
+    padding: 20px;
+    color: white;
+
+}
